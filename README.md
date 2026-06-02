@@ -1,25 +1,93 @@
-# PedroIvo
+<h1 align="center">
+  Olá 👋 Eu sou Pedro Ivo
+</h1>
 
-No README coloque algo como:
+<h3 align="center">
+Desenvolvedor Full Stack | Java | Next.js | IA
+</h3>
 
-# Olá, eu sou Pedro 👋
+---
 
-## Desenvolvedor Full Stack
+## 🚀 Sobre mim
 
-### Tecnologias
+💻 Desenvolvedor Full Stack
+
+🌱 Atualmente estudando:
 - Java
 - Spring Boot
-- React
-- Next.js
-- Neo4j
-- MongoDB
-- Python
+- Inteligência Artificial
+- Arquitetura de Software
 
-### Projetos em destaque
-- Sistema de Gestão de Workspaces
+🔭 Projetos em andamento:
 - Plantômetro
-- Projeto de Extensão LL
+- Sistema de Gestão de Workspaces
+- IA para consulta de PDFs
+- Projeto Extensão LL
 
-### Contato
-LinkedIn
-Email=Lembeck Bianco
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,nodejs,mongodb,python,git,github,docker" />
+
+</div>
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🔥 Sequência de contribuições
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🏆 Projetos Destaque
+
+### 📦 Projeto Extensão LL
+Sistema de gerenciamento de doações desenvolvido em Java.
+
+### 🌱 Plantômetro
+Sistema web para monitoramento agrícola utilizando Next.js.
+
+### 🤖 IA para PDFs
+Busca inteligente em documentos PDF usando Python e MongoDB.
+
+### 🏢 Gestão de Workspaces
+Gerenciamento de canais, agentes e equipes utilizando Neo4j.
+
+---
+
+## 🌎 Contato
+
+<a href="https://linkedin.com/in/seu-link">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:seuemail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue"/>
+
+</div>
