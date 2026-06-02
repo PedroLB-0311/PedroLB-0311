@@ -20,8 +20,6 @@ Desenvolvedor Full Stack | Java | Next.js | IA
 
 🔭 Projetos em andamento:
 - Plantômetro
-- Sistema de Gestão de Workspaces
-- IA para consulta de PDFs
 - Projeto Extensão LL
 
 ---
