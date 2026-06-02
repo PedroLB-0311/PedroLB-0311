@@ -36,28 +36,6 @@ Desenvolvedor Full Stack | Java | Next.js | IA
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🔥 Sequência de contribuições
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight"/>
-
-</div>
-
----
-
 ## 🏆 Projetos Destaque
 
 ### 📦 Projeto Extensão LL
