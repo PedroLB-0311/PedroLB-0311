@@ -28,7 +28,7 @@ Desenvolvedor Full Stack | Java | Next.js | IA
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,typescript,react,nextjs,nodejs,mongodb,python,git,github" />
+<img src="https://skillicons.dev/icons?i=java,spring,javascript,neo4j,typescript,react,nextjs,nodejs,mongodb,python,git,github" />
 
 </div>
 
