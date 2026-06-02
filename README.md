@@ -64,6 +64,6 @@ Gerenciamento de canais, agentes e equipes utilizando Neo4j.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=PedroLB-0311&color=blue"/>
 
 </div>
