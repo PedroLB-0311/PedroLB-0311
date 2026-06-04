@@ -2,7 +2,9 @@
 
 <p align="center">
   <a href="./README.md">🇺🇸 English</a> |
-  <a href="./README.pt-BR.md">🇧🇷 Português</a>
+  <a href="./README.pt-BR.md">🇧🇷 Português</a>|
+  <a href="./README.es.md">🇪🇸 Español</a>
+</p>
 </p>
 
 <p align="center">
