@@ -62,12 +62,6 @@
 
 ---
 
-# 📊 Estatísticas GitHub
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrolembeck&theme=tokyo-night)
-
----
-
 # 🚀 Projetos em Destaque
 
 | Projeto               | Tecnologias    | Descrição                                                              |
