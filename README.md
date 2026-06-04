@@ -64,10 +64,7 @@
 
 # 📊 Estatísticas GitHub
 
-<p align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrolembeck&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrolembeck&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=pedrolembeck&theme=tokyonight)
 
 ---
 
