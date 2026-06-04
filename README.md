@@ -1,42 +1,39 @@
-# 👋 Hi, I'm Pedro Ivo Lembeck Bianco
+# 👋 Olá, eu sou Pedro Ivo Lembeck Bianco
 
 <p align="center">
-  <a href="./README.md">🇺🇸 English</a> |
-  <a href="./README.pt-BR.md">🇧🇷 Português</a>|
+  <a href="./README.md">🇧🇷 Português</a> |
+  <a href="./README.en.md">🇺🇸 English</a> |
   <a href="./README.es.md">🇪🇸 Español</a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Next.js;Artificial+Intelligence+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Java+%7C+Spring+Boot+%7C+Next.js;Apaixonado+por+Tecnologia;Sempre+Aprendendo+Novas+Tecnologias" alt="Typing SVG" />
 </p>
 
 ---
 
-# 🚀 About Me
+# 🚀 Sobre Mim
 
-💻 Full Stack Developer passionate about software development, technology, and problem-solving.
+💻 Desenvolvedor Full Stack apaixonado por tecnologia, desenvolvimento de software e resolução de problemas.
 
-🎓 Currently pursuing a degree in Systems Analysis and Development.
+🎓 Estudante de Sistemas de Informação.
 
-🌱 Focused on improving my skills in Backend Development, Software Architecture, Cloud Computing, and Artificial Intelligence.
-
-🏗️ Committed to building scalable, maintainable, and high-quality applications.
+🌱 Buscando constantemente aprimorar minhas habilidades em desenvolvimento de software e construir aplicações modernas e escaláveis.
 
 ---
 
-# 📚 Currently Studying
+# 📚 Atualmente Estudando
 
 * ☕ Java
 * 🍃 Spring Boot
-* 🤖 Artificial Intelligence
-* 🏗️ Software Architecture
-* 🗄️ Relational and Graph Databases
-* ☁️ Cloud & Infrastructure
-* 📊 Data Science Fundamentals
+* 🌐 Desenvolvimento Web com JavaScript
+* ⚛️ React
+* ▲ Next.js
+* 📊 Fundamentos de Data Science
 
 ---
 
-# 🛠️ Technologies
+# 🛠️ Tecnologias
 
 ## Backend
 
@@ -50,77 +47,53 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
 
-## Databases
+## Banco de Dados
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge\&logo=neo4j\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-## Tools
+## Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge\&logo=insomnia\&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge\&logo=intellijidea)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode)
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroLB-0311&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLB-0311&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroLB-0311&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLB-0311&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🚀 Projetos em Destaque
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PedroLB-0311&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project                | Technologies    | Description                                        |
-| ---------------------- | --------------- | -------------------------------------------------- |
-| 🌱 Plantômetro         | Next.js, React  | Agricultural monitoring and management platform    |
-| 🤖 AI for PDFs         | Python, MongoDB | Intelligent document search and question answering |
-| 📦 Projeto Extensão LL | Java            | Donation management system                         |
-| 🏢 Gerador de Diárias  | Next.js, Neo4j  | Administrative automation system                   |
+| Projeto               | Tecnologias    | Descrição                                                              |
+| --------------------- | -------------- | ---------------------------------------------------------------------- |
+| 🌱 Plantômetro        | Next.js, React | Plataforma para monitoramento e gerenciamento de informações agrícolas |
+| 🏢 Gerador de Diárias | Next.js, Neo4j | Sistema para automação da geração de diárias de servidores públicos    |
 
 ---
 
-# 🎯 2026 Roadmap
+# 🎯 Objetivos para 2026
 
-* ✅ Improve Java fundamentals
-* 🔄 Master Spring Boot ecosystem
-* 🔄 Deepen Software Architecture knowledge
-* 🔄 Learn advanced AI concepts
-* 🔄 Contribute to Open Source projects
-* 🔄 Improve Cloud & DevOps skills
-* 🔄 Build scalable backend applications
+* Evoluir como Desenvolvedor Full Stack
+* Aprimorar conhecimentos em Java e Spring Boot
+* Desenvolver aplicações escaláveis
+* Contribuir para projetos Open Source
+* Consolidar conhecimentos em desenvolvimento web moderno
 
 ---
 
-# 🌎 Contact
+# 🌎 Contato
 
-<p align="center">
-  <a href="mailto:plembeckbianco@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+📧 Email: [plembeckbianco@gmail.com](mailto:plembeckbianco@gmail.com)
 
-  <a href="https://github.com/PedroLB-0311">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+🐙 GitHub: https://github.com/PedroLB-0311
 
----
-
-⭐ Thanks for visiting my profile!
-
-*"Continuous learning is the key to building great software."*
+⭐ Obrigado por visitar meu perfil!
