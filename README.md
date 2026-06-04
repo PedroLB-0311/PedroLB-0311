@@ -64,7 +64,7 @@
 
 # 📊 Estatísticas GitHub
 
-![GitHub Streak](https://streak-stats.demolab.com/api?user=pedrolembeck&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrolembeck&theme=tokyo-night)
 
 ---
 
