@@ -86,8 +86,8 @@
 
 # 🌎 Contato
 
-📧 Email: [plembeckbianco@gmail.com](mailto:plembeckbianco@gmail.com)
+📧 Email: [plembeckbianco@gmail.com]([mailto:plembeckbianco@gmail.com](https://q.me-qr.com/2onetiay))
 
-🐙 GitHub: https://github.com/PedroLB-0311
+🐙 GitHub: https://github.com/pedrolembeck
 
 ⭐ Obrigado por visitar meu perfil!
