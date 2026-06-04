@@ -7,9 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Desarrollador+Full+Stack;Java+%7C+Spring+Boot+%7C+Next.js;Apasionado+por+la+Tecnología;Siempre+Aprendiendo+Nuevas+Tecnologías" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Desarrollador+Full+Stack;Java;Spring+Boot;Next.js;Apasionado+por+la+Tecnolog%C3%ADa;Siempre+Aprendiendo+Nuevas+Tecnolog%C3%ADas" alt="Typing SVG" />
 </p>
-
 ---
 
 # 🚀 Sobre Mí
