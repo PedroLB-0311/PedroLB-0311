@@ -1,7 +1,8 @@
 # 👋 Hola, soy Pedro Ivo Lembeck Bianco
 
 <p align="center">
-  <a href="./README.md">🇧🇷 Português</a> |
+  <a href="./README.md">🇺🇸 English</a> |
+  <a href="./README.pt-BR.md">🇧🇷 Português</a>|
   <a href="./README.es.md">🇪🇸 Español</a>
 </p>
 
