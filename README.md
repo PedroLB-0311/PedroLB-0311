@@ -64,7 +64,7 @@
 
 # 📊 Estatísticas GitHub
 
-![GitHub Streak](https://streak-stats.demolab.com?user=pedrolembeck&theme=tokyonight)
+![Teste](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 ---
 
