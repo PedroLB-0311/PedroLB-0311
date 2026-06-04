@@ -5,7 +5,6 @@
   <a href="./README.pt-BR.md">🇧🇷 Português</a>|
   <a href="./README.es.md">🇪🇸 Español</a>
 </p>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Next.js;Artificial+Intelligence+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
