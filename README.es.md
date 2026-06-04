@@ -6,6 +6,12 @@
   <a href="./README.es.md">🇪🇸 Español</a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Next.js;Artificial+Intelligence+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
+
+---
+
 💻 Desarrollador Full Stack apasionado por la tecnología, el desarrollo de software y la resolución de problemas.
 
 🎓 Estudiante de Análisis y Desarrollo de Sistemas.
