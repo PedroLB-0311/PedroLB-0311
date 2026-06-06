@@ -62,6 +62,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge\&logo=insomnia\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-3776AB?style=for-the-badge\&logo=vercel\&logoColor=white)
 
 ---
 
