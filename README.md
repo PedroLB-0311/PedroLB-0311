@@ -27,9 +27,10 @@
 * ☕ Java
 * 🍃 Spring Boot
 * 🌐 Desenvolvimento Web com JavaScript
-* ⚛️ React
-* ▲ Next.js
-* 📊 Fundamentos de Data Science
+* React
+*  Next.js
+*  Fundamentos de Data Science
+* *IA
 
 ---
 
