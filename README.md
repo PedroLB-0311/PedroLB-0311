@@ -11,7 +11,7 @@
 </p>
 
 ---
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=alexandrevictor-dev&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&locale=pt-br)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=pedrolembeck&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&locale=pt-br)
 
 # 🚀 Sobre Mim
 
