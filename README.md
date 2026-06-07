@@ -11,6 +11,7 @@
 </p>
 
 ---
+https://github-readme-stats.vercel.app/api?username=pedrolembeck&show_icons=true&theme=tokyonight&locale=pt-br
 
 # 🚀 Sobre Mim
 
