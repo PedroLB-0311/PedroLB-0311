@@ -24,14 +24,13 @@
 
 # 📚 Atualmente Estudando
 
-* ☕ Java
-* 🍃 Spring Boot
-* 🌐 Desenvolvimento Web com JavaScript
-* React
-*  Next.js
-*  Fundamentos de Data Science
-* *IA
-
+![Java](https://img.shields.io/badge/Java-Learning-orange?style=for-the-badge&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Learning-green?style=for-the-badge&logo=springboot)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-Learning-blue?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-Learning-black?style=for-the-badge&logo=nextdotjs)
+![Data Science](https://img.shields.io/badge/Data_Science-Learning-purple?style=for-the-badge)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-Learning-red?style=for-the-badge)
 ---
 
 # 🛠️ Tecnologias
