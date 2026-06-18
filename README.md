@@ -71,7 +71,7 @@
 | Projeto               | Tecnologias    | Descrição                                                              |
 | --------------------- | -------------- | ---------------------------------------------------------------------- |
 | 🌱 Plantômetro        | Next.js, React | Plataforma para monitoramento e gerenciamento de informações agrícolas |
-| 🏢 Gerador de Diárias | Next.js, Neo4j | Sistema para automação da geração de diárias de servidores públicos    |
+| 🏢 Gerador de Diárias | Next.js    | Sistema para automação da geração de diárias de servidores públicos    |
 
 ---
 
